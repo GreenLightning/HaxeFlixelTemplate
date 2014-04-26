@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-
 	<!------------------------------APPLICATION SETTINGS---------------------------->
 
 	<app title="FlxProject" file="FlxProject" main="Main" version="1.0" company="HaxeFlixel" />
-
-	<!--The swf version should be at least 11.2 without FLX_NO_MOUSE_ADVANCED -->
-	<set name="SWF_VERSION" value="11.2" />
+	<set name="SWF_VERSION" value="11.8" />
 
 	<!--------------------------------WINDOW SETTINGS------------------------------->
 
