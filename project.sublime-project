@@ -2,33 +2,20 @@
 	"folders":
 	[
 		{
-			"follow_symlinks": true,
 			"name": "FlxProject",
 			"path": "."
 		},
 		{
-			"follow_symlinks": true,
 			"name": "Flixel",
 			"path": "<<insert path here>>"
 		},
 		{
-			"follow_symlinks": true,
 			"name": "Flixel Addons",
 			"path": "<<insert path here>>"
 		},
 		{
-			"follow_symlinks": true,
 			"name": "Haxe",
 			"path": "<<insert path here>>"
-		}
-	],
-	"build_systems":
-	[
-		{
-			"name": "Lime",
-			"cmd": "lime build flash",
-			"working_dir": "$project_path",
-			"shell": "true"
 		}
 	]
 }
